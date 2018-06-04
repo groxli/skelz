@@ -39,7 +39,7 @@ source ~/.bash_profile
 
 ## Authors
 
-* **Nate Jensen** - *Initial work* - [PurpleBooth](https://github.com/groxli)
+* **Nate Jensen** - *Initial work* - [groxli](https://github.com/groxli)
 
 ## License
 
