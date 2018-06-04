@@ -69,7 +69,6 @@ def main():
         if output_path == '':
             output_path = os.getcwd()
         path_status = check_permissions(output_path)
-        print('status:',path_status)
     configs['use_cfg'] = str.lower(input("Use ConfigParser? [y/n]: "))
     configs['use_files'] = str.lower(input("Use file loader/writer? [y/n]: "))
     configs['use_pd'] = str.lower(input("Include pandas and Excel writer? [y/n]: "))
