@@ -82,6 +82,8 @@ def main():
 
     # Save skeleton code and
     # make sure possible to write to path:
+    output_file = "skeleton.py"
+
     try:
         text_file = open(output_path + "/" + output_file, "w")
         text_file.write(python_code)
@@ -89,7 +91,6 @@ def main():
     except Exception as e:
         print("Exception caught:\n", str(e))    
 
-    output_file = "skeleton.py"
     text_file = open(output_path + "/" + output_file, "w")
     text_file.write(python_code)
     text_file.close()
