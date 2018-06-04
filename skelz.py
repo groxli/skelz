@@ -19,7 +19,7 @@ def check_permissions(output_path):
     '''Checks the read permissions of the specified file'''
     path_status = False
     try:
-        path_status = access(output_path, os.W_OK) # Find the permissions using os.access
+        path_status = os.access(output_path, os.W_OK) # Find the permissions using os.access
     except IOError as e:
         print(os.strerror(e)) # Print the error message from errno as a string
     return path_status
