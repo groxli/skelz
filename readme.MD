@@ -6,6 +6,7 @@ image source: https://downloadicons.net/
 Utility for generating skeleton Python code of commonly used functions.
 
 [![Skelz demo screencast](https://i.vimeocdn.com/video/705255959.webp?mw=1100&mh=585)](https://vimeo.com/273455312 "Simple Skelz Demo - Click to Watch")
+Click to view video.
 
 ## Getting Started
 
