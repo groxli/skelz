@@ -1,5 +1,5 @@
 # skelz
-![Image of Skelz Icond](http://groxli.com/wp-content/uploads/2018/01/skelz_icon.png)
+![Image of Skelz Icond](http://groxli.com/wp-content/uploads/2018/06/skelz_icon_small.png)
 
 image source: https://downloadicons.net/
 
